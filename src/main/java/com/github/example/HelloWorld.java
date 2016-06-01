@@ -1,4 +1,4 @@
-Package com.githhub.example
+package com.githhub.example;
 public class HelloWorld 
 { 
    
