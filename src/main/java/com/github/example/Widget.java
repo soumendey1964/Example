@@ -1,4 +1,4 @@
-package com.github.maven.example;
+package com.github.example;
 
 /**
  * Simple wigdet class that can be enabled or disabled
